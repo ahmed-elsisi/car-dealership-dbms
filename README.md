@@ -19,4 +19,4 @@ N.B.: Other libraries already integrated into Python. Get Python here: https://w
 	& install library by typing "pip install pymsql" in command prompt after installing Python and adding PIP to PATH.
 
 Entity-Relationship Model:
-![ER IMAGE]([https://github.com/ahmed-elsisi/car-dealership-dbms/blob/main/image.jpg?raw=true])
+![ER IMAGE]([https://github.com/ahmed-elsisi/car-dealership-dbms/blob/main/er-model.png?raw=true])
