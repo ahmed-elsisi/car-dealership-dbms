@@ -3,12 +3,12 @@ Car Dealership Database Management System utilizing Python, tkinter &amp; MySQL.
 
 ---
 
-## REQUIREMENTS
+## REQUIREMENT
 
 - Python 3+
 - MySQL
 
-## Libraries:
+## Libraries
 
 - pymysql
 - tkinter
